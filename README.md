@@ -1,50 +1,40 @@
-# Welcome to your Expo app 👋
+# 🚀 Speed By HAZA
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Is your internet connection slow? **Speed By HAZA** is designed to optimize your mobile data speed by automatically configuring the best network settings for your SIM.
 
-## Get started
+---
 
-1. Install dependencies
+## ✨ Key Features
 
-   ```bash
-   npm install
-   ```
+* **Auto APN & DNS Optimizer:** Automatically detects and sets the best Access Point Name (APN) and Domain Name System (DNS) for your specific carrier.
+* **Instant Speed Boost:** Dramatically improves browsing, downloading, and streaming speeds with one tap.
+* **Low Latency for Gaming:** Reduces ping and lag, providing a smoother experience for online mobile gaming.
+* **Universal SIM Support:** Works seamlessly with any network provider (Dialog, Mobitel, Hutch, Airtel, etc.).
+* **Ultra-Simple Interface:** No technical knowledge required. Just select your SIM and you are ready to go!
 
-2. Start the app
+---
 
-   ```bash
-   npx expo start
-   ```
+## 🛠️ How It Works
 
-In the output, you'll find options to open the app in a
+The app streamlines the connection between your device and the service provider by:
+1. Identifying your current network provider.
+2. Applying high-performance DNS servers (like Google or Cloudflare).
+3. Resetting the APN protocol to ensure the most stable data path.
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+---
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+## 📲 Installation Guide
 
-## Get a fresh project
+1. Download the **SpeedByHAZA.apk** file from the [Releases](https://github.com/hazasite/Speed-By-HAZA/) section of this repository.
+2. Go to your phone's **Settings > Security**.
+3. Enable **"Install from Unknown Sources"**.
+4. Open the downloaded APK and click **Install**.
+5. Launch the app, select your SIM, and enjoy high-speed internet!
 
-When you're ready, run:
+---
 
-```bash
-npm run reset-project
-```
+## ⚠️ Disclaimer
+Speed By HAZA only optimizes existing network parameters to provide the best possible performance. It does not bypass data limits or provide free internet.
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+---
+*Created with ❤️ by HAZA*
